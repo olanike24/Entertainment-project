@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    :root{
+        --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+        --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+        --White: hsl(0, 0%, 100%);
+        --Very-Dark-Magenta: hsl(300, 43%, 22%);
+        --Soft-Pink: hsl(333, 80%, 67%);
+    }
+    .entertainment1{
+        background-image:url(./entertainment\ 3b.jpg);
+        background-repeat: no-repeat ;
+        background-size:cover;
+        width: 100%;
+        height:800px;
+        /* margin-top: 0px; */
+        /* padding-top: 80px; */
+        /* padding-left: 80px; */
+        padding: 100px;
+}
+    .global{
+        color: white;
+        font-size: 50px;
+        font-weight: 80px;
+
+}
+    .music{
+        color: pink;
+        font-style: italic;
+        font-weight: 200px;
+        font-size: 250px;
+}
+.entertainment2{
+    background-image: url(./entertainment\ 2b.jpg);
+    background-repeat: no-repeat ;
+    background-size:cover;
+    width: 100%;
+    height:800px;
+    padding: 100px;
+}
+.name{
+    color:white;
+    font-size: larger;
+    font-weight:lighter;
+
+}
+.date{
+    color:white;
+}
+.night{
+    background-color: rgb(250, 62, 250);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.vip{
+    color: white;
+}
+.night_club{
+    color:white;
+}
+.album{
+    background-color: rgb(15, 1, 1);
+    width: 100%;
+    height:800px;
+    padding: 100px;
+    
+}
