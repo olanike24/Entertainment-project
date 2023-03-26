@@ -313,8 +313,9 @@
 .click{
     color:white;
     text-align: center;
-    font-weight: 2px;
+    /* font-weight: 2px; */
     /* margin-top: 40px; */
-    padding: 30px;
+    padding: 40px;
     text-align: center;
+    font-family: Calibri;
 }
