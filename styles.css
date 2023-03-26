@@ -41,9 +41,9 @@
 .name{
     color:white;
     font-size: 30px;
-    font-weight:10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    /* font-style: italic; */
+    font-weight:3px;
+    /* font-display: thin; */
+
 
 }
 .date{
@@ -83,11 +83,12 @@
 .vip{
     color: white;
 }
-.album{
-    background-color: rgb(54, 52, 52);
+.sect{
     width: 100%;
-    height:800px;
-    padding: 60px;
+}
+.album{
+    /* display: flex; */
+    align-items: center;
     
 }
 .latests{
@@ -102,4 +103,218 @@
     margin-top: 60px;
     /* height: 400px;
     width:100px; */
+    
+}
+.vatos{
+    color: white;
+    padding-left: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+.may{
+    color:white;
+}
+.sect{
+    background-color: rgb(54, 52, 52);
+    width: 100%;
+    height:900px;
+    /* padding: 60px; */
+}
+.together{
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.flex{
+    /* display:flex; */
+}
+.both{
+    display: flex;
+    margin-bottom:40px ;
+}
+.both1{
+    display: flex;
+    margin-bottom: 40px;
+}
+.vatos1{
+    color:white;
+}
+.may1{
+    color:white;
+}
+/* .more{
+    color:white;
+} */
+.nextlevel{
+    display: flex;
+    width:100% ;
+    height: 500px;
+    /* justify-content: center; */
+    
+    background-color: black;
+
+    
+}
+.purple{
+    background-color:rgb(241, 74, 241);
+    width: 30%;
+    height:500px;
+    padding: 30px 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.first{
+    width:35%;
+    height: 500px;
+}
+.third{
+    width: 35%;
+    height: 500px;
+    /* display: grid; */
+}
+.pics{
+    width: 100%;
+    height: 50%;
+    
+}
+.level{
+    color:white;
+    font-size: 34px;
+}
+.paragraph1{
+    color:white;
+    font-size: 16px;
+    padding-top: 15px;
+}
+.paragraph2{
+    color:white;
+    font-size: 16px;
+    padding-top: 30px;
+}
+.monkey{
+    /* background-repeat: no-repeat ;
+    background-size:cover; */
+    width: 100%;
+    height:800px;
+    /* padding: 100px; */
+}
+
+.shows{
+    color:white;
+    font-style: italic;
+    font-weight: 200px;
+    font-size: 150px;
+    margin-left:600px ;
+}
+.musicshow{
+    color:white;
+    font-style: italic;
+    font-weight: 200px;
+    font-size: 150px;
+    margin-left:600px ;
+}
+.best{
+    background-color: rgb(58, 56, 56);
+    height: 150px;
+
+}
+.dj{
+    color:rgb(241, 74, 241);
+    font-style: italic;
+}
+.and{
+    color:white;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 35px;
+    font-style: italic;
+}
+.monkey{
+    background-image: url(./monkey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+.flex1{
+    display: flex;
+}
+.flex2{
+    display: flex;
+    height: 300px;
+}
+.fourinone{
+    width:25%;
+    height: 300px;
+}
+.twoinone{
+    width: 50%;
+    height: 100%;
+}
+.special{
+    background-color: rgb(58, 56, 56);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.tonight{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    /* font-style: italic; */
+
+}
+.party{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+.booking{
+    color:rgb(241, 74, 241);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 100px;
+
+}
+.lorem{
+    color: white;
+    font-size: 20px;
+    margin-top: -15px;
+    padding: 50px; 
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 260px;
+
+}
+.call{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    font-style: italic;
+
+}
+.number{
+    color:rgb(55, 101, 201);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+.sample{
+    background-color:rgb(73, 68, 68);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+
+}
+.click{
+    color:white;
+    text-align: center;
+    font-weight: 2px;
+    /* margin-top: 40px; */
+    padding: 30px;
+    text-align: center;
 }
