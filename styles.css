@@ -70,6 +70,10 @@
     background-size: cover;
     width: 100%;
     height: 300px;
+    text-align: center;
+    /* padding-top: 20px; */
+    /* padding-right: 200px;
+    padding-left:200px ; */
 }
 .night_club{
     color:white;
@@ -254,7 +258,7 @@
     background-color: rgb(58, 56, 56);
     background-size: cover;
     width: 100%;
-    height: 500px;
+    height: 550px;
 }
 .tonight{
     font-size: 60px;
@@ -318,4 +322,24 @@
     padding: 40px;
     text-align: center;
     font-family: Calibri;
+}
+.vip{
+color: white;
+display: inline;
+font-size:20px ;
+text-align: center;
+margin-top: 20px;
+padding-right: 50px;
+/* padding-left: 50px; */
+}
+.button{
+color:white;
+width: 15px;
+margin-top: 20px;
+/* padding-left: 50px;
+padding-right: 50px; */
+}
+.link{
+    text-align: center;
+    color: aqua;
 }
